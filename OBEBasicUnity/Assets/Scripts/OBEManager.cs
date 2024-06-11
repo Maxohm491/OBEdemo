@@ -1,7 +1,5 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Scripting;
 
 public class OBEManager : MonoBehaviour
 {
@@ -57,7 +55,7 @@ public class OBEManager : MonoBehaviour
 
     IEnumerator MoveCamera() {
         float timeSinceStarted = 0f;
-        Vector3 initialPosition = OBECameraObject.transform.position;
+        Vector3 initialPosition = headSetCamera.gameObject.transform.position;
 
         while (timeSinceStarted < moveSeconds)
         {
