@@ -1,7 +1,9 @@
 Library\Bee\artifacts\mvdfrm\Unity.InputSystem.ref.dll_C2E5A21D32AE5F0E.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Mathematics.ref.dll_AEA6B4BCAB1E95DB.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.XR.CoreUtils.ref.dll_B3DE46F2110A6A1F.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.XR.Hands.ref.dll_A4E94DD1D9EC85E1.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.XR.Management.ref.dll_DC51283E3E10157C.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.XR.OpenXR.ref.dll_9C5E04DD4A8CC80D.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_DB9C9DC9DBF32258.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_F98983CE8439AFC2.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_98027424E2154AC3.mvfrm

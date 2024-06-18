@@ -65,6 +65,10 @@ public class InputCoordinator : MonoBehaviour
             tempState = device.TryGetFeatureValue(CommonUsages.primaryButton, out primaryButtonState) // did get a value
                         && primaryButtonState // the value we got
                         || tempState; // cumulative result from other controllers
+
+            // var handState = 1;
+            // if (device.TryGetFeatureValue(CommonUsages.handData, out handState)) {
+            // }
         }
 
         if (tempState != lastButtonState) // Button state changed since last frame
